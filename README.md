@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -36,4 +37,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
