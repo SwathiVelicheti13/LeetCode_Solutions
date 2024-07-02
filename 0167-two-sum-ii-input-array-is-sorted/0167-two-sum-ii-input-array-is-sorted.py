@@ -10,5 +10,5 @@ class Solution:
             elif sum1<target:
                 ind1 = ind1+1
             else:
-                return [ind1+1,ind2+1]
-        return []
+                return (ind1+1,ind2+1)
+        
