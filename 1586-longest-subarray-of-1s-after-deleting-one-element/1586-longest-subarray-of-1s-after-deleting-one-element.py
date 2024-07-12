@@ -8,7 +8,7 @@ class Solution:
         while r<len(nums):
             if nums[r]==0:
                 zeroes+=1
-            while zeroes>1:
+            if zeroes>1:
                 if nums[l]==0:
                     zeroes = zeroes-1
                 l+=1
