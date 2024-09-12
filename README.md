@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Sliding Window
 |  |
@@ -135,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
