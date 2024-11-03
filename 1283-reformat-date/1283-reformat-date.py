@@ -9,7 +9,7 @@ class Solution:
             if int(day) == i:
                 day = "0"+day
         
-        str1 = year+"-"+str(months[month])+"-"+day
+        str1 = year+"-"+months[month]+"-"+day
 
         return str1
 
