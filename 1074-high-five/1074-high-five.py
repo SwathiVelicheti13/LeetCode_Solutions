@@ -8,7 +8,7 @@ class Solution:
 
         l1 = []
         for key, values in dict1.items():
-            sum1=floor((sum(values[0:5]))/5)
+            sum1=(sum(values[0:5]))//5
             l1.append([key,sum1])
         l1.sort()
         return l1
