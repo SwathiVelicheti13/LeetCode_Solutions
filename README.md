@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0874-backspace-string-compare](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1283-reformat-date](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1283-reformat-date) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,4 +197,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0874-backspace-string-compare](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 <!---LeetCode Topics End-->
