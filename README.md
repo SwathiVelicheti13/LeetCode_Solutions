@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -216,5 +218,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
