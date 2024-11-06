@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0119-pascals-triangle-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
