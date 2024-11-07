@@ -1,30 +1,31 @@
 class Solution:
+    def bfs(self,i,j,grid,n,m,visited):
+        visited[i][j] = 1
+        q = [[i,j]]
+        direction = [(0,1),(0,-1),(1,0),(-1,0)]
+        while q:
+            r, c = q.pop(0)
+            for dire in direction:
+                nr = r+dire[0]
+                nc = c+dire[1]
 
-    def dfs(self,row, col, visited, grid):
-        visited[row][col] = 1
-        n = len(grid)
-        m = len(grid[0])
-
-        directions = [(0,-1),(0,1),(1,0),(-1,0)]
-
-        for dire in directions:
-            nrow,ncol = row+dire[0],col+dire[1]
-        # for i in range(-1,2):
-        #     for j in range(-1,2):
-        #         if i == 0 and j == 0:
-        #         nrow = row+i
-        #         ncol = col+j
-            if 0 <= nrow < n and 0 <= ncol < m and visited[nrow][ncol] == 0 and grid[nrow][ncol] == "1":
-                self.dfs(nrow,ncol,visited, grid)
-
+                if nr>=0 and nr<n and nc>=0 and nc<m and grid[nr][nc]=='1' and visited[nr][nc]!=1:
+                    visited[nr][nc] = 1
+                    q.append([nr,nc])
+            
+                
     def numIslands(self, grid: List[List[str]]) -> int:
         n = len(grid)
         m = len(grid[0])
         cnt = 0
         visited = [[0 for _ in range(m)]for _ in range(n)]
-        for row in range(n):
-            for col in range(m):
-                if visited[row][col]!=1 and grid[row][col]=="1":
+
+        for i in range(n):
+            for j in range(m):
+                if grid[i][j] == '1' and visited[i][j]!=1:
                     cnt+=1
-                    self.dfs(row,col,visited, grid)
+                    self.bfs(i,j,grid,n,m,visited)
         return cnt
+
+
+      
