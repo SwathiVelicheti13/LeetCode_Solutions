@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [2047-find-a-peak-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
