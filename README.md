@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0733-flood-fill) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1074-high-five](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1074-high-five) |
 | [1137-height-checker](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1137-height-checker) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1252-break-a-palindrome](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1252-break-a-palindrome) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
