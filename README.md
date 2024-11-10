@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1074-high-five) |
 | [1137-height-checker](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1137-height-checker) |
+| [1206-corporate-flight-bookings](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1206-corporate-flight-bookings) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1206-corporate-flight-bookings](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1206-corporate-flight-bookings) |
 | [2504-find-all-good-indices](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2529-range-product-queries-of-powers) |
 ## Two Pointers
