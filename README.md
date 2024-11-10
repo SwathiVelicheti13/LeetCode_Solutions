@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1137-height-checker) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -211,10 +212,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
 | ------- |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -261,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0735-asteroid-collision](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Depth-First Search
