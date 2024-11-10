@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Queue
 |  |
 | ------- |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Backtracking
 |  |
 | ------- |
