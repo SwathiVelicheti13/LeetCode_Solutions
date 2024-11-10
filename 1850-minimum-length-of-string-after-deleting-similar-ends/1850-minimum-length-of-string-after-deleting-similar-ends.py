@@ -9,7 +9,7 @@ class Solution:
             while l<=r and s[l] == c:
                 l+=1
 
-            while l<r and s[r] == c:
+            while l<=r and s[r] == c:
                 r = r-1
             
         return (r-l)+1
