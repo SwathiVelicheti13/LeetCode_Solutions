@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0733-flood-fill](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0735-asteroid-collision](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
