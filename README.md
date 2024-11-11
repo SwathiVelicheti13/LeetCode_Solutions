@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1074-high-five](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1074-high-five) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2348-count-number-of-texts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2348-count-number-of-texts) |
 | [3202-high-access-employees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3202-high-access-employees) |
 | [3474-better-compression-of-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3474-better-compression-of-string) |
 ## Prefix Sum
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2348-count-number-of-texts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2348-count-number-of-texts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3202-high-access-employees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3202-high-access-employees) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2348-count-number-of-texts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2348-count-number-of-texts) |
 | [2504-find-all-good-indices](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2504-find-all-good-indices) |
 ## Recursion
 |  |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1345-perform-string-shifts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1345-perform-string-shifts) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2348-count-number-of-texts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2348-count-number-of-texts) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Backtracking
 |  |
