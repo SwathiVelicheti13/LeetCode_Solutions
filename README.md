@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1074-high-five) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0874-backspace-string-compare](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1252-break-a-palindrome](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1252-break-a-palindrome) |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
