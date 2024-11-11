@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2504-find-all-good-indices](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [3270-minimum-moves-to-capture-the-queen](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3270-minimum-moves-to-capture-the-queen) |
 ## Hash Table
 |  |
 | ------- |
@@ -318,4 +319,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2529-range-product-queries-of-powers) |
+## Enumeration
+|  |
+| ------- |
+| [3270-minimum-moves-to-capture-the-queen](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3270-minimum-moves-to-capture-the-queen) |
 <!---LeetCode Topics End-->
