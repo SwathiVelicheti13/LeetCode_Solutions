@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0647-palindromic-substrings](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1252-break-a-palindrome](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1252-break-a-palindrome) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
+| [0647-palindromic-substrings](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2348-count-number-of-texts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2348-count-number-of-texts) |
