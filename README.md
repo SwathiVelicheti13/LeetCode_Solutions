@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1074-high-five) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3202-high-access-employees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3202-high-access-employees) |
 | [3474-better-compression-of-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3474-better-compression-of-string) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-perform-string-shifts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1345-perform-string-shifts) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3202-high-access-employees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3202-high-access-employees) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
