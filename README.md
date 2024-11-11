@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2504-find-all-good-indices](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [3202-high-access-employees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3202-high-access-employees) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3270-minimum-moves-to-capture-the-queen) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1074-high-five) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3202-high-access-employees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3202-high-access-employees) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3202-high-access-employees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3202-high-access-employees) |
 ## String
 |  |
 | ------- |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3202-high-access-employees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3202-high-access-employees) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Divide and Conquer
 |  |
