@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1137-height-checker) |
 | [1206-corporate-flight-bookings](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1206-corporate-flight-bookings) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1345-perform-string-shifts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1345-perform-string-shifts) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1252-break-a-palindrome](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1252-break-a-palindrome) |
 | [1283-reformat-date](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1283-reformat-date) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1345-perform-string-shifts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1345-perform-string-shifts) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
+| [1345-perform-string-shifts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1345-perform-string-shifts) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Backtracking
