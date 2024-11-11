@@ -1,14 +1,14 @@
 class Solution:
     def minStartValue(self, nums: List[int]) -> int:
-        pfSum = 0
-        minSum = float('inf')
+        min_sum = 0  # Track the minimum cumulative sum
+        curr_sum = 0  # Initialize current cumulative sum
 
-        for x in nums:
-            pfSum+=x
-            minSum = min(minSum,pfSum)
+        # Calculate cumulative sum and track minimum
+        for num in nums:
+            curr_sum += num
+            min_sum = min(min_sum, curr_sum)
 
-        if minSum<0:
-            return -(minSum)+1
-        return 1
-        
-       
+        # Calculate the required start value to ensure min_sum >= 1
+        startValue = 1 - min_sum
+
+        return startValue
