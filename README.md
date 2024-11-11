@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0039-combination-sum) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
