@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+| [1036-rotting-oranges](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1074-high-five) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Memoization
 |  |
