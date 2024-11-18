@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0394-decode-string) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
