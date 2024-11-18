@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
