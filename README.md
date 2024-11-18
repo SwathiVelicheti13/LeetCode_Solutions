@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0326-power-of-three) |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [2529-range-product-queries-of-powers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2529-range-product-queries-of-powers) |
 ## Enumeration
 |  |
