@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-perform-string-shifts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1345-perform-string-shifts) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1074-high-five) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1074-high-five](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1074-high-five) |
 | [1137-height-checker](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1137-height-checker) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3202-high-access-employees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3202-high-access-employees) |
