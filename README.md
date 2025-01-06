@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0253-meeting-rooms-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
