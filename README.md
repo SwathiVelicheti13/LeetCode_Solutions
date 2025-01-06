@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1074-high-five) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2348-count-number-of-texts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2348-count-number-of-texts) |
 | [3202-high-access-employees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3202-high-access-employees) |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3474-better-compression-of-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3474-better-compression-of-string) |
 ## Quickselect
 |  |
