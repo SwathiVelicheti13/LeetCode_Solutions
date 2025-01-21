@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1206-corporate-flight-bookings](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1206-corporate-flight-bookings) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1345-perform-string-shifts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1345-perform-string-shifts) |
+| [1428-jump-game-iii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1428-jump-game-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [1428-jump-game-iii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
+| [1428-jump-game-iii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1428-jump-game-iii) |
 ## Matrix
 |  |
 | ------- |
