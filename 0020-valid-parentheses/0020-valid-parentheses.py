@@ -1,21 +1,16 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
+        for brac in s:
+            if brac == '[' or brac == '(' or brac == '{':
+                stack.append(brac)
 
-        if len(s)<=1:
-            return False
-        for char in s:
-            if char == '(' or char == '[' or char == '{':
-                stack.append(char)
-            
-            elif len(stack) > 0 and ((char == ')' and stack[-1] == '(') or (char == ']' and stack[-1] == '[') or (char == '}' and stack[-1] == '{')):
+            elif len(stack)>0 and ((brac == ']' and stack[-1] == '[')  or (brac == ')' and stack[-1] =='(') or (brac == '}' and stack[-1] == '{')):
                 stack.pop()
-            elif (char == ')' or char == ']' or char == '}'):
+
+            elif brac == ']' or brac == ')' or brac == '}' :
                 return False
-
-
-
-        if stack:
+        if len(stack)>0:
             return False
         return True
 
