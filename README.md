@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0049-group-anagrams) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
@@ -383,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -443,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
