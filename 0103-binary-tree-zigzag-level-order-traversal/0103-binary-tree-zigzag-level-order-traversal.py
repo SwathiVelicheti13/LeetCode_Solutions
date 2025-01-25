@@ -7,6 +7,9 @@
 class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         
+
+        if root is None:
+            return []
         lr = True
         q = deque([root])
         ans = []
@@ -16,8 +19,6 @@ class Solution:
 
             for i in range(n):
                 root = q.popleft()
-                if root is None:
-                    return []
                 level.append(root.val)
                 if root.left:
                     q.append(root.left)
