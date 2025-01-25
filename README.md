@@ -389,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0733-flood-fill) |
@@ -472,4 +474,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
