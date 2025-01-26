@@ -425,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0733-flood-fill) |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
