@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0563-binary-tree-tilt](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [1428-jump-game-iii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0617-merge-two-binary-trees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -506,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -521,4 +524,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
