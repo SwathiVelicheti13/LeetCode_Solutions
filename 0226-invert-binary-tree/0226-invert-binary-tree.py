@@ -12,6 +12,16 @@ class Solution:
 
         root.left,root.right = root.right,root.left
 
+        # INCASE NULL VALUES NOT ALLOWED
+        # if root.left and root.right:
+        #     root.left,root.right = root.right,root.left
+
+        # elif root.left:
+        #     root.right = root.left
+        
+        # elif root.right:
+        #     root.left = root.right
+
         self.invertTree(root.left)
         self.invertTree(root.right)
         
