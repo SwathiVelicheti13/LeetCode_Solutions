@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0051-n-queens) |
+| [0113-path-sum-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0200-number-of-islands) |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0563-binary-tree-tilt) |
@@ -508,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0563-binary-tree-tilt) |
