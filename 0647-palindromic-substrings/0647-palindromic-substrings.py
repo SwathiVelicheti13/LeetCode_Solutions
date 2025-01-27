@@ -1,22 +1,21 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-        
-        def expand_center(l,r):
+        def expand(i,j,s):
             count = 0
-            while l>=0 and r<len(s) and s[l]==s[r]:
+            while i>=0 and j<len(s) and s[i]==s[j]:
                 count+=1
-                l=l-1
-                r=r+1
+                i = i-1
+                j = j+1
             return count
-
-        total_palindrome = 0
-        for i in range(len(s)):
-            total_palindrome+=expand_center(i,i)
-
-            total_palindrome+=expand_center(i,i+1)
         
-        return total_palindrome
-
-
+        i = 0
+        count = 0
+        n = len(s)
+        while i<len(s):
+            count+=expand(i,i,s)
+            count+=expand(i,i+1,s)
+            i+=1
+        return count
 
         
+       
