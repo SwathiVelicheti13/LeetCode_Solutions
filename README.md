@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0647-palindromic-substrings](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
+| [0688-knight-probability-in-chessboard](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0688-knight-probability-in-chessboard) |
 | [1013-fibonacci-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2348-count-number-of-texts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2348-count-number-of-texts) |
