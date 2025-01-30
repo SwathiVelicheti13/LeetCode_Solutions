@@ -9,7 +9,7 @@ class Solution:
             sum1 += nums[r]
             
             # Check if we can make all elements between nums[l] and nums[r] the same with k operations
-            while (r - l + 1) * nums[r] - sum1 > k:
+            while (r - l + 1) * nums[r] > sum1+k:
                 sum1 -= nums[l]
                 l += 1
             
