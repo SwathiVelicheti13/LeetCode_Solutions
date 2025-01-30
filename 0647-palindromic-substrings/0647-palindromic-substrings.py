@@ -1,21 +1,19 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-        def expand(i,j,s):
+        
+
+        def expand(i,j):
             count = 0
-            while i>=0 and j<len(s) and s[i]==s[j]:
+            while i>=0 and j<len(s) and s[i] == s[j]:
                 count+=1
                 i = i-1
-                j = j+1
+                j+=1
             return count
         
-        i = 0
-        count = 0
-        n = len(s)
-        while i<len(s):
-            count+=expand(i,i,s)
-            count+=expand(i,i+1,s)
-            i+=1
-        return count
+        total = 0
+        for i in range(len(s)):
+            odd_count = expand(i,i)
+            even_count = expand(i,i+1)
 
-        
-       
+            total+=(odd_count+even_count)
+        return total    
