@@ -1,21 +1,19 @@
 class Solution:
     def smallestNumber(self, pattern: str) -> str:
         stack = []
-        result = []
-        num = 1  # Start with 1
-        
-        for ch in pattern:
+        num = 1
+        res = []
+        for pat in pattern:
             stack.append(num)
-            num += 1
-            
-            if ch == 'I':
+            num+=1
+
+            if pat == 'I':
                 while stack:
-                    result.append(str(stack.pop()))
-        
-        # Push the last remaining number
+                    res.append(str(stack.pop()))
+
         stack.append(num)
         while stack:
-            result.append(str(stack.pop()))
-
-        return "".join(result)
-       
+            res.append(str(stack.pop()))
+        
+        return ''.join(res)
+                    
