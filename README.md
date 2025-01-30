@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0443-string-compression) |
+| [0564-find-the-closest-palindrome](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0564-find-the-closest-palindrome](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1119-robot-bounded-in-circle](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1119-robot-bounded-in-circle) |
 | [1345-perform-string-shifts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1345-perform-string-shifts) |
