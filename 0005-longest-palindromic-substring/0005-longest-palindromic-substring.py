@@ -1,16 +1,20 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        def expand_center(left,right):
-            while left>=0 and right<len(s) and s[left]==s[right]:
-                left=left-1
-                right+=1
-            return s[left+1:right]
 
-        long_palindrome = ""
+        def expand(l,r):
+            while l >= 0 and r<len(s) and s[l] == s[r]:
+                l=l-1
+                r+=1
+            return s[l+1:r]
+
+        longPalin = ""
         for i in range(len(s)):
-            l = expand_center(i,i)
-            r = expand_center(i,i+1)
+            odd_value = expand(i,i)
+            even_value = expand(i,i+1)
 
-            long_palindrome = max(long_palindrome,l,r ,key=len)
-        return long_palindrome
+            longPalin = max(longPalin,odd_value,even_value, key=len)
+        return longPalin
+
+
+
         
