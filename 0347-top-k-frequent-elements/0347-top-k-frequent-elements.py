@@ -1,22 +1,22 @@
+import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        dict1 = defaultdict(int)
+        dict1 = Counter(nums)
 
-        for val in nums:
-            dict1[val]+=1
-        
-        list1 = []
-
+        heapList = []
+        result = []
+      
         for key,val in dict1.items():
-            list1.append([-val,key])
+            heapList.append([-val,key])
 
-        heapq.heapify(list1)
-
-        res = []
+       
+        heapq.heapify(heapList)
+        
         for i in range(k):
-            val,key = heapq.heappop(list1)
-            res.append(key)
-        return res
+            val,key = heapq.heappop(heapList)
+            result.append(key)
+        return result
+
 
 
 
