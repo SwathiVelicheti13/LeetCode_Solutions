@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0253-meeting-rooms-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -300,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -398,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0564-find-the-closest-palindrome](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0564-find-the-closest-palindrome) |
@@ -517,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [2529-range-product-queries-of-powers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2529-range-product-queries-of-powers) |
 ## Enumeration
 |  |
