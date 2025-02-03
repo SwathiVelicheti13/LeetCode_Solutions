@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1119-robot-bounded-in-circle](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1119-robot-bounded-in-circle) |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
