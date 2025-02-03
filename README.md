@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0753-open-the-lock](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0753-open-the-lock) |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
@@ -522,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
