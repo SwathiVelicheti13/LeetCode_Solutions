@@ -1,22 +1,34 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        l = 0
-        h = len(nums)-1
+        length = len(nums)
+        low = 0
+        high = length-1
 
-        while l<=h:
-            mid = (l+h)//2
+        # iterate to find the mid
+
+        while low<=high:
+            mid = (low+high)//2
+
+            # if nums[low] == nums[mid]== nums[high]:
+            #     low = low+1
+            #     high = high-1
+            #     continue
+
             if nums[mid] == target:
                 return mid
 
-            elif nums[l]<=nums[mid]:
-                if nums[l]<=target<=nums[mid]:
-                    h = mid-1
+            if nums[low]<=nums[mid]:
+                if nums[low]<=target<=nums[mid]:
+                    high = mid-1
                 else:
-                    l = mid+1
+                    low = mid+1
             else:
-                if nums[mid]<=target<=nums[h]:
-                    l=mid+1
+                if nums[mid]<=target<=nums[high]:
+                    low = mid+1
                 else:
-                    h = mid-1
+                    high = mid-1
         return -1
+            
+
+
         
