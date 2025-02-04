@@ -1,41 +1,40 @@
 class Solution:
     def fractionToDecimal(self, numerator: int, denominator: int) -> str:
-        if numerator == 0:
-            return "0"
-        sign = "-" if (numerator < 0) ^ (denominator < 0) else ""
+        num = numerator 
+        denom = denominator
+        res = []
+
+        if num%denom == 0:
+            return str(num//denom)
+
         
-        # Step 2: Work with absolute values
-        numerator, denominator = abs(numerator), abs(denominator)
-        
-        # Step 3: Integer part
-        integer_part = numerator // denominator
-        remainder = numerator % denominator
-        result = sign + str(integer_part)
-        
-        # If no remainder, return result
-        if remainder == 0:
-            return result
-        
-        # Step 4: Handle decimal part
-        result += "."
-        remainder_map = {}
-        decimal_part = ""
-        
-        while remainder != 0:
-            # If remainder repeats
-            if remainder in remainder_map:
-                index = remainder_map[remainder]
-                decimal_part = decimal_part[:index] + "(" + decimal_part[index:] + ")"
-                return result + decimal_part
+        if (num < 0) ^ (denom < 0):  
+            res.append('-')
+
+        num,denom = abs(num),abs(denom)
+
+        # integer part
+        print("dd",num/denom)
+        res.append(str(num//denom))
+        res.append('.')
+
+        # rem part
+
+        rem = num%denom
+        rem_map = {}
+
+        #check for recurring decimal in quotient
+        while rem:
+            if rem in rem_map:
+                res.insert(rem_map[rem],'(')
+                res.append(')')
+                break
+
             
-            # Store the current remainder position
-            remainder_map[remainder] = len(decimal_part)
-            
-            # Multiply remainder by 10 and divide
-            remainder *= 10
-            decimal_part += str(remainder // denominator)
-            remainder %= denominator
-        
-        # Append the non-repeating decimal part
-        return result + decimal_part
-            
+            rem_map[rem] = len(res)
+            rem=rem*10
+            quo = rem//denom
+            res.append(str(quo))
+            rem = rem%denom
+    
+        return ''.join(res)
