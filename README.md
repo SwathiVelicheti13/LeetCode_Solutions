@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0264-ugly-number-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
@@ -379,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -589,5 +593,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
