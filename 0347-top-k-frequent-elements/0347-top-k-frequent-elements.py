@@ -9,9 +9,9 @@ class Solution:
         for key,val in dict1.items():
             heapList.append([-val,key])
 
-       
         heapq.heapify(heapList)
         
+        print(heapList)
         for i in range(k):
             val,key = heapq.heappop(heapList)
             result.append(key)
