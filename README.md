@@ -613,4 +613,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
