@@ -618,5 +618,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0620-not-boring-movies) |
 | [2087-confirmation-rate](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
