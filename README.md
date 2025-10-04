@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2504-find-all-good-indices](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3202-high-access-employees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3202-high-access-employees) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3270-minimum-moves-to-capture-the-queen) |
 ## Hash Table
 |  |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2348-count-number-of-texts](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2348-count-number-of-texts) |
 | [3202-high-access-employees](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3202-high-access-employees) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3474-better-compression-of-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3474-better-compression-of-string) |
 ## Prefix Sum
 |  |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3474-better-compression-of-string](https://github.com/SwathiVelicheti13/LeetCode_Solutions/tree/master/3474-better-compression-of-string) |
 ## Quickselect
 |  |
