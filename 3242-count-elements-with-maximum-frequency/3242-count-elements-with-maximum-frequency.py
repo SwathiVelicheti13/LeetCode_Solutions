@@ -16,9 +16,7 @@ class Solution(object):
         result = 0
 
         for i in c:
-            if i>max_number:
-                break
-            elif i==max_number:
+            if i==max_number:
                 result = i+result
         return result
 
